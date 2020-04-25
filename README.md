@@ -15,3 +15,11 @@ Choose the right Azure machine learning products and services that allow your te
 There are five machine learning options on Azure that allow data analysts, data engineers, data scientists, and AI engineers work collaboratively on AI and ML models. 
 
 Two of these prodcts -- Azure Machine Learning Service (Preview) and Azure Databricks -- allow you to build models from the ground up. The materials in this repository focus on the services within these two products.
+
+### Standard ML Modeling Workflow
+
+Standard ML Modeling Workflow
+![Alt Text](https://github.com/emdata-design/azure-data-science/assets/emdata Standard ML Modeling Workflow - Modeling Workflow - Full.png)
+
+### Resources
+
