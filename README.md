@@ -18,7 +18,7 @@ Two of these prodcts -- Azure Machine Learning Service (Preview) and Azure Datab
 
 ### Standard ML Modeling Workflow
 
-![Alt Text](https://github.com/emdata-design/azure-data-science/master/assets/emdataStandardMLModelingWorkflow.png)
+![Alt Text](https://github.com/emdata-design/azure-data-science/blob/master/assets/emdataStandardMLModelingWorkflow.png)
 
 ### Resources
 
