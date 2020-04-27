@@ -1,5 +1,5 @@
 # Choosing the Right Data Science Services in Azure: <small><br>Scale, Automate, and Deploy with Ease</small>
-Microsoft Azure offers a multitude of cloud-based products that simplify the data science workflow in unique ways. Together these products each have different purposes that help the data science teams with various aspects of the machine learning process.
+Microsoft Azure offers a multitude of cloud-based products that simplify the data science workflow in unique ways. Together these products each have different purposes that help data science teams with various aspects of the machine learning process.
 
 This repository contains materials for _Choosing the Right Data Science Services in Azure: Scale, Automate, and Deploy with Ease_. The materials include presentations that unpack the challenge in determining which product is best suited for standard machine learning tasks. We explore the most popular machine learning products on Azure and describe how each fit into a typical data science workflow.
 
