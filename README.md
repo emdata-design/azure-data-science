@@ -6,7 +6,7 @@ With _Choosing the Right Data Science Services in Azure: Scale, Automate, and De
 Our <a href="https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac" target="_blank">machine learning workflow</a>
 covers the full lifecycle of the data science process from data acquisition to scaling and serving finished models on production systems. Within each of the tasks in the process, we explore the right Azure products that help us easily scale our solutions.
 
-We also explore how to right-size your data science team to best utilize each product so you’re solving problems as quickly and cheaply as possible.
+We also explore how to right-size <a href="https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Ideal%20Data%20Science%20Team.png" target="_blank">your data science team</a> to best utilize each product so you’re solving problems as quickly and cheaply as possible.
 
 The materials here will help you understand how to choose the set of Azure machine learning and AI products that fit your data science team within a typical machine learning workflow, allowing you to scale, automate, and deploy analytical solutions with ease.
 
