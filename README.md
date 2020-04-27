@@ -3,7 +3,8 @@ Microsoft Azure offers a multitude of cloud-based products that simplify creatin
 
 With _Choosing the Right Data Science Services in Azure: Scale, Automate, and Deploy with Ease_, we unpack the challenge in determining which Azure data science product is best suited to solve your analytical problems. We explore the most popular machine learning and AI products and describe how each fit into a typical machine learning workflow.
 
-Our [machine learning workflow](https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac) covers the full lifecycle of the data science process from data acquisition to scaling and serving finished models on production systems. Within each of the tasks in the process, we explore the right Azure products that help us easily scale our solutions. 
+Our <a href="https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac" target="_blank">machine learning workflow</a>
+covers the full lifecycle of the data science process from data acquisition to scaling and serving finished models on production systems. Within each of the tasks in the process, we explore the right Azure products that help us easily scale our solutions.
 
 We also explore how to right-size your data science team to best utilize each product so you’re solving problems as quickly and cheaply as possible.
 
@@ -28,6 +29,10 @@ Two of these products -- Azure Machine Learning Service (Preview) and Azure Data
 ### Hidden Technical Debt in Machine Learning Systems
 
 ![Hidden Technical Debt in Machine Learning Systems](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Hidden%20Technical%20Debt%20in%20Machine%20Learning%20Systems.png)
+
+### Ideal Data Science Team
+
+![Ideal Data Science Team](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Ideal%20Data%20Science%20Team.png)
 
 ### Resources
 
