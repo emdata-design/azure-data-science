@@ -1,5 +1,5 @@
 # Choosing the Right Data Science Services in Azure: <small><br>Scale, Automate, and Deploy with Ease</small>
-Microsoft Azure offers a multitude of cloud-based products that simplify creating solutions that solve your analytical problems with machine learning and AI. These products help teams with various aspects of the data science process.
+Microsoft Azure offers a multitude of cloud-based products that simplify creating solutions that solve your analytical problems with machine learning and AI. Together these products help your team with all aspects of the data science process.
 
 With _Choosing the Right Data Science Services in Azure: Scale, Automate, and Deploy with Ease_, we unpack the challenge in determining which Azure data science product is best suited to solve your analytical problems. We explore the most popular machine learning and AI products and describe how each fit into a typical machine learning workflow.
 
@@ -23,11 +23,15 @@ Two of these products -- Azure Machine Learning Service (Preview) and Azure Data
 
 ### Standard ML Modeling Workflow
 
-<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac" id="njITNFkZGuO."></iframe>
+![Alt Text](https://github.com/emdata-design/azure-data-science/blob/master/assets/Standard ML Modeling Workflow.png.png)
 
 ### Hidden Technical Debt in Machine Learning Systems
 
 ![Alt Text](https://github.com/emdata-design/azure-data-science/blob/master/assets/Hidden Technical Debt in Machine Learning Systems.png)
 
 ### Resources
+
+<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac" id="njITNFkZGuO."></iframe>
+
+
 
