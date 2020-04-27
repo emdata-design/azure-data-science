@@ -23,15 +23,13 @@ Two of these products -- Azure Machine Learning Service (Preview) and Azure Data
 
 ### Standard ML Modeling Workflow
 
-![Alt Text](https://github.com/emdata-design/azure-data-science/blob/master/assets/Standard ML Modeling Workflow.png.png)
+[![Machine learning workflow](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Standard%20ML%20Modeling%20Workflow.png)](https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac)
 
 ### Hidden Technical Debt in Machine Learning Systems
 
-![Alt Text](https://github.com/emdata-design/azure-data-science/blob/master/assets/Hidden Technical Debt in Machine Learning Systems.png)
+![Hidden Technical Debt in Machine Learning Systems](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Hidden%20Technical%20Debt%20in%20Machine%20Learning%20Systems.png)
 
 ### Resources
-
-<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac" id="njITNFkZGuO."></iframe>
 
 
 
