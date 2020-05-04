@@ -79,6 +79,42 @@ _(click on the image below to view the original diagram)_
 
 ![Ideal Data Science Team](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Ideal%20Data%20Science%20Team.png)
 
+
+<table cellspacing=0 border=1>
+    <thead>
+        <tr>
+            <th style=min-width:150px>Member</th>
+            <th style=min-width:50px>Responsibilities</th>
+            <th style=min-width:50px>Key Skills</th>
+        </tr>
+    </thead>
+    <tr>
+        <td style=min-width:50px>Data Science Manager</td>
+        <td style=min-width:50px>Oversees and directs data science teams and projects and is the bridge between data and non-data people.</td>
+        <td style=min-width:50px>Management experience, programming skills (R / Python), strong communication.</td>
+    </tr>
+    <tr>
+        <td style=min-width:50px>Data / BI Analyst</td>
+        <td style=min-width:50px>Ensures collected data is relevant and exhaustive while also interpreting analytics results.</td>
+        <td style=min-width:50px>SQL, R / Python, Tableau / Power BI.</td>
+    </tr>
+    <tr>
+        <td style=min-width:50px>Data Scientist</td>
+        <td style=min-width:50px>Builds upon the analysts’ data work to develop predictive models and complex algorithms.</td>
+        <td style=min-width:50px>R, Python, Spark, Hadoop.</td>
+    </tr>
+    <tr>
+        <td style=min-width:50px>Data Engineer</td>
+        <td style=min-width:50px>Develops the infrastructure to house the data and maintains the structural components.</td>
+        <td style=min-width:50px> AWS, MongoDB, MySQL, Hadoop, C++.</td>
+    </tr>
+    <tr>
+        <td style=min-width:50px>ML Ops Engineer</td>
+        <td style=min-width:50px>Responsible for linking the ML application with a unified, production-grade platform and processes.</td>
+        <td style=min-width:50px>Distributed & Big data systems, MapReduce, Stream Processing, In-Memory Computing, Lambda & Kappa Architecture</td>
+    </tr>
+</table>
+
 ##  Azure Government
 As of May 2020, Azure Machine Learning Services is an [available product on Azure Government](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=machine-learning-service&regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia) and has [feature parity with the commercial version](https://devblogs.microsoft.com/azuregov/azure-government-releases-40-new-services-nearing-parity-with-azure-commercial/). Microsoft’s [Azure Government documentation](https://docs.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope#azure-public-services-by-audit-scope) states that Azure Machine Learning has DoD CC SRG IL 2, FedRAMP Moderate, and FedRAMP High certifications.
 
