@@ -3,8 +3,6 @@
 <a href="emdata.ai"><img src="https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/images/logo_emdata_300_blue.png" alt="emdata logo" align="right" width="115" hspace="10" vspace="0"/></a>
 Tony McGovern, co-Founder of [em·data](emdata.ai) 
 
-<!-- TOC -->autoauto- [Choosing the Right Data Science Services in Azure: <small><br>Scale, Automate, and Deploy with Ease</small>](#choosing-the-right-data-science-services-in-azure-smallbrscale-automate-and-deploy-with-easesmall)auto        - [Machine Learning Options on Azure](#machine-learning-options-on-azure)auto        - [Azure Government](#azure-government)auto        - [Standard ML Modeling Workflow](#standard-ml-modeling-workflow)auto        - [Hidden Technical Debt in Machine Learning Systems](#hidden-technical-debt-in-machine-learning-systems)auto        - [Ideal Data Science Team](#ideal-data-science-team)auto        - [Resources](#resources)autoauto<!-- /TOC -->
-
 Microsoft Azure offers a multitude of cloud-based products that simplify creating solutions that solve your analytical problems with machine learning and AI. Together these products help your team with all aspects of the data science process.
 
 With _Choosing the Right Data Science Services in Azure: Scale, Automate, and Deploy with Ease_, we unpack the challenge in determining which Azure data science product is best suited to solve your analytical problems. We explore the most popular machine learning and AI products and describe how each fit into a typical machine learning workflow.
