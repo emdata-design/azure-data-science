@@ -1,8 +1,9 @@
 # Choosing the Right Data Science Services in Azure: <small><br>Scale, Automate, and Deploy with Ease</small>
 
-by Tony McGovern, co-Founder of [em·data](emdata.ai) 
+<a href="emdata.ai"><img src="https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/images/logo_emdata_300_blue.png" alt="emdata logo" align="right" width="115" hspace="10" vspace="0"/></a>
+Tony McGovern, co-Founder of [em·data](emdata.ai) 
 
-<img src="https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/images/logo_emdata_300_blue.png" alt="emdata logo" width="200"/> 
+<!-- TOC -->autoauto- [Choosing the Right Data Science Services in Azure: <small><br>Scale, Automate, and Deploy with Ease</small>](#choosing-the-right-data-science-services-in-azure-smallbrscale-automate-and-deploy-with-easesmall)auto        - [Machine Learning Options on Azure](#machine-learning-options-on-azure)auto        - [Azure Government](#azure-government)auto        - [Standard ML Modeling Workflow](#standard-ml-modeling-workflow)auto        - [Hidden Technical Debt in Machine Learning Systems](#hidden-technical-debt-in-machine-learning-systems)auto        - [Ideal Data Science Team](#ideal-data-science-team)auto        - [Resources](#resources)autoauto<!-- /TOC -->
 
 Microsoft Azure offers a multitude of cloud-based products that simplify creating solutions that solve your analytical problems with machine learning and AI. Together these products help your team with all aspects of the data science process.
 
@@ -35,10 +36,10 @@ Azure Databricks is expected to be in [preview on Azure Government by the end of
 
 More details in the table below:
 
-<table>
+<table border>
 <head>
 <tr>
-    <th style=min-width:50px>Product</th>
+    <th style=min-width:155px>Product</th>
     <th style=min-width:50px>US DoD Central</th>
     <th style=min-width:50px>US DoD East</th>
     <th style=min-width:50px>US Gov Arizona</th>
@@ -72,9 +73,12 @@ More details in the table below:
 
 ### Standard ML Modeling Workflow
 
+_(click on the image below to view the original diagram)_
 [![Machine learning workflow](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Standard%20ML%20Modeling%20Workflow.png)](https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac)
 
 ### Hidden Technical Debt in Machine Learning Systems
+
+
 
 ![Hidden Technical Debt in Machine Learning Systems](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Hidden%20Technical%20Debt%20in%20Machine%20Learning%20Systems.png)
 
