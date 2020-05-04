@@ -1,6 +1,6 @@
 # Choosing the Right Data Science Services in Azure: <small><br>Scale, Automate, and Deploy with Ease</small>
 
-<a href="https://emdata.ai"><img src="https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/images/logo_emdata_300_blue.png" alt="emdata logo" align="right" width="115" hspace="10" vspace="6"/></a>
+<a href="https://emdata.ai"><img src="https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/images/logo_emdata_300_blue.png" alt="emdata logo" align="right" width="115" hspace="10" vspace="0"/></a>
 
 ## Table of Contents
 - [Introduction](#Introduction)
@@ -26,13 +26,42 @@ The materials here will help you understand how to choose the set of Azure machi
 
 ###  Machine Learning Options on Azure
 
- - Azure Machine Learning Service (Preview)
- - Azure Machine Learning Studio (Classic)
- - Azure Databricks
- - Azure Data Science Virtual Machine
- - SQL Server Machine Learning Services
-
 There are a number of machine learning options on Azure that allow data analysts, data engineers, data scientists, and AI engineers work collaboratively on AI and ML models. 
+
+<table cellspacing=0 border=1>
+    <thead>
+    <tr>
+        <th style=min-width:50px></th>
+        <th style=min-width:165px>Product</th>
+        <th style=min-width:50px>What it is</th>
+        <th style=min-width:50px>What you can do with it</th>
+    </tr>
+    </thead>
+    <tr>
+        <td><img src="assets\images\AML.png" width="45"/></td>
+        <td style=min-width:50px>Azure Machine Learning service</td>
+        <td style=min-width:50px>A managed cloud service for Machine Learning.</td>
+        <td style=min-width:50px>Train, deploy, and manage models in Azure using Python, Azure CLI, and Azure portal.</td>
+    </tr>
+    <tr>
+        <td><img src="assets\images\ADB.png" width="45"/></td>
+        <td style=min-width:50px>Azure Databricks</td>
+        <td style=min-width:50px>Apache Spark–based analytics platform with an integrated notebook interface that seamlessly integrates with Azure Active Directory (Azure AD) and data services.</td>
+        <td style=min-width:50px>Build and deploy models and data workflows with big data.</td>
+    </tr>
+    <tr>
+        <td><img src="assets\images\DSVM.png" width="45"/></td>
+        <td style=min-width:50px>Azure Data Science Virtual Machine</td>
+        <td style=min-width:50px>A virtual machine with preinstalled data science tools.</td>
+        <td style=min-width:50px>Develop machine learning solutions in a preconfigured data science environment.</td>
+    </tr>
+    <tr>
+        <td><img src="assets\images\SQL.png" width="45"/></td>
+        <td style=min-width:50px>SQL Server Machine Learning Services</td>
+        <td style=min-width:50px>Integrated with Microsoft SQL Server, this scalable analytics server supports the Python and R language.</td>
+        <td style=min-width:50px>Build and develop models in an on-premises SQL server that scales to match the SQL Server engine. Microsoft Machine Learning Server is also available as a cluster type in Azure HDInsight.</td>
+    </tr>
+</table>
 
 Two of these products -- Azure Machine Learning Service (Preview) and Azure Databricks -- allow you to build models from the ground up. The materials in this repository focus on the services within these two products.
 
