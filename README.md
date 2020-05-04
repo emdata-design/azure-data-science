@@ -1,8 +1,8 @@
 # Choosing the Right Data Science Services in Azure: <small><br>Scale, Automate, and Deploy with Ease</small>
 
-![emdata logo](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/images/logo_emdata_300_blue.png)
+by Tony McGovern, co-Founder of [em·data](emdata.ai) 
 
-by Tony McGovern, co-Founder of [em·data](emdata.ai)
+<img src="https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/images/logo_emdata_300_blue.png" alt="emdata logo" width="200"/> 
 
 Microsoft Azure offers a multitude of cloud-based products that simplify creating solutions that solve your analytical problems with machine learning and AI. Together these products help your team with all aspects of the data science process.
 
@@ -26,6 +26,49 @@ The materials here will help you understand how to choose the set of Azure machi
 There are a number of machine learning options on Azure that allow data analysts, data engineers, data scientists, and AI engineers work collaboratively on AI and ML models. 
 
 Two of these products -- Azure Machine Learning Service (Preview) and Azure Databricks -- allow you to build models from the ground up. The materials in this repository focus on the services within these two products.
+
+### Azure Government
+
+As of May 2020, Azure Machine Learning Services is an [available product on Azure Government](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=machine-learning-service&regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia) and has [feature parity with the commercial version](https://devblogs.microsoft.com/azuregov/azure-government-releases-40-new-services-nearing-parity-with-azure-commercial/). Microsoft’s [Azure Government documentation](https://docs.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope#azure-public-services-by-audit-scope) states that Azure Machine Learning has DoD CC SRG IL 2, FedRAMP Moderate, and FedRAMP High certifications.
+
+Azure Databricks is expected to be in [preview on Azure Government by the end of Q2 2020](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=databricks&regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia) at the US Gov Arizona and US Gov Virginia locations.
+
+More details in the table below:
+
+<table>
+<head>
+<tr>
+    <th style=min-width:50px>Product</th>
+    <th style=min-width:50px>US DoD Central</th>
+    <th style=min-width:50px>US DoD East</th>
+    <th style=min-width:50px>US Gov Arizona</th>
+    <th style=min-width:50px>US Gov Iowa</th>
+    <th style=min-width:50px>US Gov Texas</th>
+    <th style=min-width:50px>US Gov Virginia</th>
+</tr>
+</head>
+<tbody>
+<tr>
+    <td style=min-width:50px>Azure Databricks </td>
+    <td style=min-width:50px>Not available</td>
+    <td style=min-width:50px>Not available</td>
+    <td style=min-width:50px>Not available</td>
+    <td style=min-width:50px>Preview expected: Q2 2020</td>
+    <td style=min-width:50px>Not available</td>
+    <td style=min-width:50px>Preview expected: Q2 2020</td>
+</tr>
+<tr>
+    <td style=min-width:50px>Azure Machine Learning</td>
+    <td style=min-width:50px>Not available</td>
+    <td style=min-width:50px>Not available</td>
+    <td style=min-width:50px>Not available</td>
+    <td style=min-width:50px>Available</td>
+    <td style=min-width:50px>Not available</td>
+    <td style=min-width:50px>Available</td>
+</tr>
+
+</tbody>
+</table>
 
 ### Standard ML Modeling Workflow
 
