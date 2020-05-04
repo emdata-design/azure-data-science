@@ -1,6 +1,6 @@
 # Choosing the Right Data Science Services in Azure: <small><br>Scale, Automate, and Deploy with Ease</small>
 
-<a href="emdata.ai"><img src="https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/images/logo_emdata_300_blue.png" alt="emdata logo" align="right" width="115" hspace="10" vspace="0"/></a>
+<a href="https://emdata.ai"><img src="https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/images/logo_emdata_300_blue.png" alt="emdata logo" align="right" width="115" hspace="10" vspace="0"/></a>
 Tony McGovern, co-Founder of [em·data](https://emdata.ai) 
 
 Microsoft Azure offers a multitude of cloud-based products that simplify creating solutions that solve your analytical problems with machine learning and AI. Together these products help your team with all aspects of the data science process.
