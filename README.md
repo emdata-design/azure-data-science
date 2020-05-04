@@ -12,7 +12,6 @@
 - [Resources](#Resources)
 
 ## Introduction
-
 Microsoft Azure offers a multitude of cloud-based products that simplify creating solutions that solve your analytical problems with machine learning and AI. Together these products help your team with all aspects of the data science process.
 
 With _Choosing the Right Data Science Services in Azure: Scale, Automate, and Deploy with Ease_, we unpack the challenge in determining which Azure data science product is best suited to solve your analytical problems. We explore the most popular machine learning and AI products and describe how each fit into our machine learning workflow.
@@ -24,9 +23,8 @@ We also explore how to right-size <a href="https://raw.githubusercontent.com/emd
 
 The materials here will help you understand how to choose the set of Azure machine learning and AI products that fit your data science team within a typical machine learning workflow, allowing you to scale, automate, and deploy analytical solutions with ease.
 
-###  Machine Learning Options on Azure
-
-There are a number of machine learning options on Azure that allow data analysts, data engineers, data scientists, and AI engineers work collaboratively on AI and ML models. 
+##  Machine Learning Options on Azure
+There are a number of machine learning options on Azure that allow data analysts, data engineers, data scientists, and AI engineers to work collaboratively on AI and ML models. 
 
 More details in the table below:
 
@@ -69,21 +67,19 @@ More details in the table below:
 
 Two of these products -- Azure Machine Learning Service and Azure Databricks -- allow you to build models from the ground up. The materials in this repository focus on the services within these two products.
 
-###  Standard ML Modeling Workflow
-
+##  Standard ML Modeling Workflow
 _(click on the image below to view the original diagram)_
 [![Machine learning workflow](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Standard%20ML%20Modeling%20Workflow.png)](https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac)
 
-###  Hidden Technical Debt in Machine Learning Systems
+##  Hidden Technical Debt in Machine Learning Systems
 
 ![Hidden Technical Debt in Machine Learning Systems](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Hidden%20Technical%20Debt%20in%20Machine%20Learning%20Systems.png)
 
-###  Ideal Data Science Team
+##  Ideal Data Science Team
 
 ![Ideal Data Science Team](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Ideal%20Data%20Science%20Team.png)
 
-###  Azure Government
-
+##  Azure Government
 As of May 2020, Azure Machine Learning Services is an [available product on Azure Government](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=machine-learning-service&regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia) and has [feature parity with the commercial version](https://devblogs.microsoft.com/azuregov/azure-government-releases-40-new-services-nearing-parity-with-azure-commercial/). Microsoft’s [Azure Government documentation](https://docs.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope#azure-public-services-by-audit-scope) states that Azure Machine Learning has DoD CC SRG IL 2, FedRAMP Moderate, and FedRAMP High certifications.
 
 Azure Databricks is expected to be in [preview on Azure Government by the end of Q2 2020](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=databricks&regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia) at the US Gov Arizona and US Gov Virginia locations.
@@ -127,7 +123,4 @@ More details in the table below:
     </tbody>
 </table>
 
-###  Resources
-
-
-
+##  Resources
