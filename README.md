@@ -1,6 +1,6 @@
 # Choosing the Right Data Science Services in Azure: <small><br>Scale, Automate, and Deploy with Ease</small>
 
-<a href="https://emdata.ai"><img src="https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/images/logo_emdata_300_blue.png" alt="emdata logo" align="right" width="115" hspace="10" vspace="0"/></a>
+<a href="https://emdata.ai"><img src="https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/images/logo_emdata_300_blue.png" alt="emdata logo" align="right" style='width:"115" hspace="10" vspace="0"/></a>
 
 ## Table of Contents
 - [Introduction](#Introduction)
@@ -27,7 +27,6 @@ The materials here will help you understand how to choose the set of Azure machi
 There are a number of machine learning options on Azure that allow data analysts, data engineers, data scientists, and AI engineers to work collaboratively on AI and ML models. 
 
 More details in the table below:
-
 <table cellspacing=0 border=1>
     <thead>
         <tr>
@@ -39,25 +38,25 @@ More details in the table below:
     </thead>
     <tbody>
         <tr>
-            <td><img src="assets\images\AML.png" width="145px"/></td>
+            <td><img src="assets/images/AML.png" style='width:45px'/></td>
             <td style=min-width:50px>Azure Machine Learning service</td>
             <td style=min-width:50px>A managed cloud service for Machine Learning.</td>
             <td style=min-width:50px>Train, deploy, and manage models in Azure using Python, Azure CLI, and Azure portal.</td>
         </tr>
         <tr>
-            <td><img src="assets\images\Databricks.png" width="145px"/></td>
+            <td><img src="assets/images/Databricks.png" style='width:45px'/></td>
             <td style=min-width:50px>Azure Databricks</td>
             <td style=min-width:50px>Apache Spark–based analytics platform with an integrated notebook interface that seamlessly integrates with Azure Active Directory (Azure AD) and data services.</td>
             <td style=min-width:50px>Build and deploy models and data workflows with big data.</td>
         </tr>
         <tr>
-            <td><img src="assets\images\DSVM.png" width="145px"/></td>
+            <td><img src="assets/images/DSVM.png" style='width:45px'/></td>
             <td style=min-width:50px>Azure Data Science Virtual Machine</td>
             <td style=min-width:50px>A virtual machine with preinstalled data science tools.</td>
             <td style=min-width:50px>Develop machine learning solutions in a preconfigured data science environment.</td>
         </tr>
         <tr>
-            <td><img src="assets\images\SQL.png" width="145px"/></td>
+            <td><img src="assets/images/SQL.png" style='width:45px'/></td>
             <td style=min-width:50px>SQL Server Machine Learning Services</td>
             <td style=min-width:50px>Integrated with Microsoft SQL Server, this scalable analytics server supports the Python and R language.</td>
             <td style=min-width:50px>Build and develop models in an on-premises SQL server that scales to match the SQL Server engine. Microsoft Machine Learning Server is also available as a cluster type in Azure HDInsight.</td>
@@ -73,7 +72,6 @@ As of May 2020, Azure Machine Learning Services is an [available product on Azur
 Azure Databricks is expected to be in [preview on Azure Government by the end of Q2 2020](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=databricks&regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia) at the US Gov Arizona and US Gov Virginia locations.
 
 More details in the table below:
-
 <table cellspacing=0 border=1>
     <thead>
         <tr>
@@ -89,7 +87,7 @@ More details in the table below:
     </thead>
     <tbody>
         <tr>
-            <td><img src="assets\images\AML.png" width="145px"/></td>
+            <td><img src="assets/images/AML.png" style='width:45px'/></td>
             <td style=min-width:50px>Azure Machine Learning</td>
             <td style=min-width:50px>Not available</td>
             <td style=min-width:50px>Not available</td>
@@ -99,7 +97,7 @@ More details in the table below:
             <td style=min-width:50px>Available</td>
         </tr>
         <tr>
-            <td><img src="assets\images\Databricks.png" width="145px"/></td>
+            <td><img src="assets/images/Databricks.png" style='width:45px'/></td>
             <td style=min-width:50px>Azure Databricks </td>
             <td style=min-width:50px>Not available</td>
             <td style=min-width:50px>Not available</td>
@@ -116,15 +114,13 @@ _(click on the image below to view the original diagram)_
 [![Machine learning workflow](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Standard%20ML%20Modeling%20Workflow.png)](https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac)
 
 ##  Hidden Technical Debt in Machine Learning Systems
-
 ![Hidden Technical Debt in Machine Learning Systems](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Hidden%20Technical%20Debt%20in%20Machine%20Learning%20Systems.png)
 
 ##  Ideal Data Science Team
-
 ![Ideal Data Science Team](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Ideal%20Data%20Science%20Team.png)
 
  <figure>
-  <img src="assets\images\Project_Manager.jpg" width="120px"/>
+  <img src="assets/images/Project_Manager.jpg" style='width:"120px"/>
   <figcaption style="text-align:left">Data Science Manager</figcaption>
 </figure> 
 
@@ -138,21 +134,21 @@ _(click on the image below to view the original diagram)_
         </tr>
     </thead>
     <tr>
-        <td><img src="assets\images\Project_Manager.jpg" width="145px"/></td>
+        <td><img src="assets/images/Project_Manager.jpg" style='width:45px'/></td>
         <td style=min-width:50px>Data Science Manager</td>
         <td style=min-width:50px>Oversees and directs data science teams and projects and is the bridge between data and non-data people.</td>
         <td style=min-width:50px>Management experience, programming skills (R / Python), strong communication.</td>
     </tr>
     <tr>
-        <td><img src="assets\images\Data_BI_Analyst.jpg" width="145px"/></td>
+        <td><img src="assets/images/Data_BI_Analyst.jpg" style='width:45px'/></td>
         <td style=min-width:50px>Data / BI Analyst</td>
         <td style=min-width:50px>Ensures collected data is relevant and exhaustive while also interpreting analytics results.</td>
         <td style=min-width:50px>SQL, R / Python, Tableau / Power BI.</td>
     </tr>
     <tr>
         <td>
-            <img src="assets\images\Data_Scientist_1.jpg" width="75px"/>
-            <img src="assets\images\Data_Scientist_2.jpg" width="75px"/>
+            <img src="assets/images/Data_Scientist_1.jpg" style='width:45px'/>
+            <img src="assets/images/Data_Scientist_2.jpg" style='width:45px'/>
         </td>
         <td style=min-width:50px>Data Scientist</td>
         <td style=min-width:50px>Builds upon the analysts’ data work to develop predictive models and complex algorithms.</td>
@@ -160,15 +156,15 @@ _(click on the image below to view the original diagram)_
     </tr>
     <tr>
         <td>
-            <img src="assets\images\Data_Engineer_1.jpg" width="75px"/>
-            <img src="assets\images\Data_Engineer_2.jpg" width="75px"/>
+            <img src="assets/images/Data_Engineer_1.jpg" style='width:45px'/>
+            <img src="assets/images/Data_Engineer_2.jpg" style='width:45px'/>
         </td>
         <td style=min-width:50px>Data Engineer</td>
         <td style=min-width:50px>Develops the infrastructure to house the data and maintains the structural components.</td>
-        <td style=min-width:50px> AWS, MongoDB, MySQL, Hadoop, C++.</td>
+        <td style=min-width:50px>AWS, MongoDB, MySQL, Hadoop, C++.</td>
     </tr>
     <tr>
-        <td><img src="assets\images\Data_Scientist_1.jpg" width="145px"/></td>
+        <td><img src="assets/images/Data_Scientist_1.jpg" style='width:45px'/></td>
         <td style=min-width:50px>ML Ops Engineer</td>
         <td style=min-width:50px>Responsible for linking the ML application with a unified, production-grade platform and processes.</td>
         <td style=min-width:50px>Distributed & Big data systems, MapReduce, Stream Processing, In-Memory Computing, Lambda & Kappa Architecture</td>
