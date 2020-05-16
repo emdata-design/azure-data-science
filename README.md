@@ -137,16 +137,6 @@ More details in the table below:
     </thead>
     <tbody>
         <tr>
-            <td><img src="assets\images\Databricks.png" width="145px"/></td>
-            <td style=min-width:50px>Azure Databricks </td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Preview expected: Q2 2020</td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Preview expected: Q2 2020</td>
-        </tr>
-        <tr>
             <td><img src="assets\images\AML.png" width="145px"/></td>
             <td style=min-width:50px>Azure Machine Learning</td>
             <td style=min-width:50px>Not available</td>
@@ -155,6 +145,16 @@ More details in the table below:
             <td style=min-width:50px>Available</td>
             <td style=min-width:50px>Not available</td>
             <td style=min-width:50px>Available</td>
+        </tr>
+        <tr>
+            <td><img src="assets\images\Databricks.png" width="145px"/></td>
+            <td style=min-width:50px>Azure Databricks </td>
+            <td style=min-width:50px>Not available</td>
+            <td style=min-width:50px>Not available</td>
+            <td style=min-width:50px>Not available</td>
+            <td style=min-width:50px>Preview expected: Q2 2020</td>
+            <td style=min-width:50px>Not available</td>
+            <td style=min-width:50px>Preview expected: Q2 2020</td>
         </tr>
     </tbody>
 </table>
