@@ -5,10 +5,10 @@
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Machine Learning Options on Azure](#Machine-Learning-Options-on-Azure)
+- [Machine Learning Options on Azure Government](#Machine-Learning-Options-on-Azure-Government)
 - [Standard ML Modeling Workflow](#Standard-ML-Modeling-Workflow)
 - [Hidden Technical Debt in Machine Learning Systems](#Hidden-Technical-Debt-in-Machine-Learning-Systems)
 - [Ideal Data Science Team](#Ideal-Data-Science-Team)
-- [Azure Government](#Azure-Government)
 - [Resources](#Resources)
 
 ## Introduction
@@ -67,55 +67,7 @@ More details in the table below:
 
 Two of these products -- Azure Machine Learning Service and Azure Databricks -- allow you to build models from the ground up. The materials in this repository focus on the services within these two products.
 
-##  Standard ML Modeling Workflow
-_(click on the image below to view the original diagram)_
-[![Machine learning workflow](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Standard%20ML%20Modeling%20Workflow.png)](https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac)
-
-##  Hidden Technical Debt in Machine Learning Systems
-
-![Hidden Technical Debt in Machine Learning Systems](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Hidden%20Technical%20Debt%20in%20Machine%20Learning%20Systems.png)
-
-##  Ideal Data Science Team
-
-![Ideal Data Science Team](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Ideal%20Data%20Science%20Team.png)
-
-
-<table cellspacing=0 border=1>
-    <thead>
-        <tr>
-            <th style=min-width:150px>Member</th>
-            <th style=min-width:50px>Responsibilities</th>
-            <th style=min-width:50px>Key Skills</th>
-        </tr>
-    </thead>
-    <tr>
-        <td style=min-width:50px>Data Science Manager</td>
-        <td style=min-width:50px>Oversees and directs data science teams and projects and is the bridge between data and non-data people.</td>
-        <td style=min-width:50px>Management experience, programming skills (R / Python), strong communication.</td>
-    </tr>
-    <tr>
-        <td style=min-width:50px>Data / BI Analyst</td>
-        <td style=min-width:50px>Ensures collected data is relevant and exhaustive while also interpreting analytics results.</td>
-        <td style=min-width:50px>SQL, R / Python, Tableau / Power BI.</td>
-    </tr>
-    <tr>
-        <td style=min-width:50px>Data Scientist</td>
-        <td style=min-width:50px>Builds upon the analysts’ data work to develop predictive models and complex algorithms.</td>
-        <td style=min-width:50px>R, Python, Spark, Hadoop.</td>
-    </tr>
-    <tr>
-        <td style=min-width:50px>Data Engineer</td>
-        <td style=min-width:50px>Develops the infrastructure to house the data and maintains the structural components.</td>
-        <td style=min-width:50px> AWS, MongoDB, MySQL, Hadoop, C++.</td>
-    </tr>
-    <tr>
-        <td style=min-width:50px>ML Ops Engineer</td>
-        <td style=min-width:50px>Responsible for linking the ML application with a unified, production-grade platform and processes.</td>
-        <td style=min-width:50px>Distributed & Big data systems, MapReduce, Stream Processing, In-Memory Computing, Lambda & Kappa Architecture</td>
-    </tr>
-</table>
-
-##  Azure Government
+##  Machine Learning Options on Azure Government
 As of May 2020, Azure Machine Learning Services is an [available product on Azure Government](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=machine-learning-service&regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia) and has [feature parity with the commercial version](https://devblogs.microsoft.com/azuregov/azure-government-releases-40-new-services-nearing-parity-with-azure-commercial/). Microsoft’s [Azure Government documentation](https://docs.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope#azure-public-services-by-audit-scope) states that Azure Machine Learning has DoD CC SRG IL 2, FedRAMP Moderate, and FedRAMP High certifications.
 
 Azure Databricks is expected to be in [preview on Azure Government by the end of Q2 2020](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=databricks&regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia) at the US Gov Arizona and US Gov Virginia locations.
@@ -157,6 +109,70 @@ More details in the table below:
             <td style=min-width:50px>Preview expected: Q2 2020</td>
         </tr>
     </tbody>
+</table>
+
+##  Standard ML Modeling Workflow
+_(click on the image below to view the original diagram)_
+[![Machine learning workflow](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Standard%20ML%20Modeling%20Workflow.png)](https://www.lucidchart.com/documents/embeddedchart/acf9aa5d-a85f-4786-bf56-e49a88a63bac)
+
+##  Hidden Technical Debt in Machine Learning Systems
+
+![Hidden Technical Debt in Machine Learning Systems](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Hidden%20Technical%20Debt%20in%20Machine%20Learning%20Systems.png)
+
+##  Ideal Data Science Team
+
+![Ideal Data Science Team](https://raw.githubusercontent.com/emdata-design/azure-data-science/master/assets/Ideal%20Data%20Science%20Team.png)
+
+ <figure>
+  <img src="assets\images\Project_Manager.jpg" width="120px"/>
+  <figcaption style="text-align:left">Data Science Manager</figcaption>
+</figure> 
+
+<table cellspacing=0 border=1>
+    <thead>
+        <tr>
+            <th style=min-width:50px></th>
+            <th style=min-width:150px>Member</th>
+            <th style=min-width:50px>Responsibilities</th>
+            <th style=min-width:50px>Key Skills</th>
+        </tr>
+    </thead>
+    <tr>
+        <td><img src="assets\images\Project_Manager.jpg" width="145px"/></td>
+        <td style=min-width:50px>Data Science Manager</td>
+        <td style=min-width:50px>Oversees and directs data science teams and projects and is the bridge between data and non-data people.</td>
+        <td style=min-width:50px>Management experience, programming skills (R / Python), strong communication.</td>
+    </tr>
+    <tr>
+        <td><img src="assets\images\Data_BI_Analyst.jpg" width="145px"/></td>
+        <td style=min-width:50px>Data / BI Analyst</td>
+        <td style=min-width:50px>Ensures collected data is relevant and exhaustive while also interpreting analytics results.</td>
+        <td style=min-width:50px>SQL, R / Python, Tableau / Power BI.</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="assets\images\Data_Scientist_1.jpg" width="75px"/>
+            <img src="assets\images\Data_Scientist_2.jpg" width="75px"/>
+        </td>
+        <td style=min-width:50px>Data Scientist</td>
+        <td style=min-width:50px>Builds upon the analysts’ data work to develop predictive models and complex algorithms.</td>
+        <td style=min-width:50px>R, Python, Spark, Hadoop.</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="assets\images\Data_Engineer_1.jpg" width="75px"/>
+            <img src="assets\images\Data_Engineer_2.jpg" width="75px"/>
+        </td>
+        <td style=min-width:50px>Data Engineer</td>
+        <td style=min-width:50px>Develops the infrastructure to house the data and maintains the structural components.</td>
+        <td style=min-width:50px> AWS, MongoDB, MySQL, Hadoop, C++.</td>
+    </tr>
+    <tr>
+        <td><img src="assets\images\Data_Scientist_1.jpg" width="145px"/></td>
+        <td style=min-width:50px>ML Ops Engineer</td>
+        <td style=min-width:50px>Responsible for linking the ML application with a unified, production-grade platform and processes.</td>
+        <td style=min-width:50px>Distributed & Big data systems, MapReduce, Stream Processing, In-Memory Computing, Lambda & Kappa Architecture</td>
+    </tr>
 </table>
 
 ##  Resources
