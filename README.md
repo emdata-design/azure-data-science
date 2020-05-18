@@ -30,36 +30,36 @@ More details in the table below:
 <table cellspacing=0 border=1>
     <thead>
         <tr>
-            <th style=max-width:50px></th>
-            <th style=min-width:150px>Product</th>
-            <th style=min-width:50px>What it is</th>
-            <th style=min-width:50px>What you can do with it</th>
+            <th width="50px"></th>
+            <th width="150px">Product</th>
+            <th min-width="50px">What it is</th>
+            <th min-width="50px">What you can do with it</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><img src="assets/images/AML.png" width="45px"/></td>
-            <td style=min-width:150px>Azure Machine Learning service</td>
-            <td style=min-width:50px>A managed cloud service for Machine Learning.</td>
-            <td style=min-width:50px>Train, deploy, and manage models in Azure using Python, Azure CLI, and Azure portal.</td>
+            <td width="150px">Azure Machine Learning service</td>
+            <td min-width="50px">A managed cloud service for Machine Learning.</td>
+            <td min-width="50px">Train, deploy, and manage models in Azure using Python, Azure CLI, and Azure portal.</td>
         </tr>
         <tr>
             <td><img src="assets/images/Databricks.png" width="45px"/></td>
-            <td style=min-width:150px>Azure Databricks</td>
-            <td style=min-width:50px>Apache Spark–based analytics platform with an integrated notebook interface that seamlessly integrates with Azure Active Directory (Azure AD) and data services.</td>
-            <td style=min-width:50px>Build and deploy models and data workflows with big data.</td>
+            <td width="150px">Azure Databricks</td>
+            <td min-width="50px">Apache Spark–based analytics platform with an integrated notebook interface that seamlessly integrates with Azure Active Directory (Azure AD) and data services.</td>
+            <td min-width="50px">Build and deploy models and data workflows with big data.</td>
         </tr>
         <tr>
             <td><img src="assets/images/DSVM.png" width="45px"/></td>
-            <td style=min-width:150px>Azure Data Science Virtual Machine</td>
-            <td style=min-width:50px>A virtual machine with preinstalled data science tools.</td>
-            <td style=min-width:50px>Develop machine learning solutions in a preconfigured data science environment.</td>
+            <td width="150px">Azure Data Science Virtual Machine</td>
+            <td min-width="50px">A virtual machine with preinstalled data science tools.</td>
+            <td min-width="50px">Develop machine learning solutions in a preconfigured data science environment.</td>
         </tr>
         <tr>
             <td><img src="assets/images/SQL.png" width="45px"/></td>
-            <td style=min-width:150px>SQL Server Machine Learning Services</td>
-            <td style=min-width:50px>Integrated with Microsoft SQL Server, this scalable analytics server supports the Python and R language.</td>
-            <td style=min-width:50px>Build and develop models in an on-premises SQL server that scales to match the SQL Server engine. Microsoft Machine Learning Server is also available as a cluster type in Azure HDInsight.</td>
+            <td width="150px">SQL Server Machine Learning Services</td>
+            <td min-width="50px">Integrated with Microsoft SQL Server, this scalable analytics server supports the Python and R language.</td>
+            <td min-width="50px">Build and develop models in an on-premises SQL server that scales to match the SQL Server engine. Microsoft Machine Learning Server is also available as a cluster type in Azure HDInsight.</td>
         </tr>
     </tbody>
 </table>
@@ -75,36 +75,36 @@ More details in the table below:
 <table cellspacing=0 border=1>
     <thead>
         <tr>
-            <th style=max-width:50px></th>
-            <th style=min-width:150px>Product</th>
-            <th style=min-width:50px>US DoD Central</th>
-            <th style=min-width:50px>US DoD East</th>
-            <th style=min-width:50px>US Gov Arizona</th>
-            <th style=min-width:50px>US Gov Iowa</th>
-            <th style=min-width:50px>US Gov Texas</th>
-            <th style=min-width:50px>US Gov Virginia</th>
+            <th width="50px"></th>
+            <th width="150px">Product</th>
+            <th min-width="50px">US DoD Central</th>
+            <th min-width="50px">US DoD East</th>
+            <th min-width="50px">US Gov Arizona</th>
+            <th min-width="50px">US Gov Iowa</th>
+            <th min-width="50px">US Gov Texas</th>
+            <th min-width="50px">US Gov Virginia</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><img src="assets/images/AML.png" width="45px"/></td>
-            <td style=min-width:150px>Azure Machine Learning</td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Available</td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Available</td>
+            <td width="150px">Azure Machine Learning</td>
+            <td min-width="50px">Not available</td>
+            <td min-width="50px">Not available</td>
+            <td min-width="50px">Not available</td>
+            <td min-width="50px">Available</td>
+            <td min-width="50px">Not available</td>
+            <td min-width="50px">Available</td>
         </tr>
         <tr>
             <td><img src="assets/images/Databricks.png" width="45px"/></td>
-            <td style=min-width:150px>Azure Databricks </td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Preview expected: Q2 2020</td>
-            <td style=min-width:50px>Not available</td>
-            <td style=min-width:50px>Preview expected: Q2 2020</td>
+            <td width="150px">Azure Databricks </td>
+            <td min-width="50px">Not available</td>
+            <td min-width="50px">Not available</td>
+            <td min-width="50px">Not available</td>
+            <td min-width="50px">Preview expected: Q2 2020</td>
+            <td min-width="50px">Not available</td>
+            <td min-width="50px">Preview expected: Q2 2020</td>
         </tr>
     </tbody>
 </table>
@@ -122,47 +122,47 @@ _(click on the image below to view the original diagram)_
 <table cellspacing=0 border=1>
     <thead>
         <tr>
-            <th style=max-width:50px></th>
-            <th style=min-width:150px>Member</th>
-            <th style=min-width:50px>Responsibilities</th>
-            <th style=min-width:50px>Key Skills</th>
+            <th width="50px"></th>
+            <th width="150px">Member</th>
+            <th min-width="50px">Responsibilities</th>
+            <th min-width="50px">Key Skills</th>
         </tr>
     </thead>
     <tr>
         <td><img src="assets/images/Project_Manager.jpg" width="45px"/></td>
-        <td style=min-width:150px>Data Science Manager</td>
-        <td style=min-width:50px>Oversees and directs data science teams and projects and is the bridge between data and non-data people.</td>
-        <td style=min-width:50px>Management experience, programming skills (R / Python), strong communication.</td>
+        <td width="150px">Data Science Manager</td>
+        <td min-width="50px">Oversees and directs data science teams and projects and is the bridge between data and non-data people.</td>
+        <td min-width="50px">Management experience, programming skills (R / Python), strong communication.</td>
     </tr>
     <tr>
         <td><img src="assets/images/Data_BI_Analyst.jpg" width="45px"/></td>
-        <td style=min-width:150px>Data / BI Analyst</td>
-        <td style=min-width:50px>Ensures collected data is relevant and exhaustive while also interpreting analytics results.</td>
-        <td style=min-width:50px>SQL, R / Python, Tableau / Power BI.</td>
+        <td width="150px">Data / BI Analyst</td>
+        <td min-width="50px">Ensures collected data is relevant and exhaustive while also interpreting analytics results.</td>
+        <td min-width="50px">SQL, R / Python, Tableau / Power BI.</td>
     </tr>
     <tr>
         <td>
             <img src="assets/images/Data_Scientist_1.jpg" width="45px"/>
             <img src="assets/images/Data_Scientist_2.jpg" width="45px"/>
         </td>
-        <td style=min-width:150px>Data Scientist</td>
-        <td style=min-width:50px>Builds upon the analysts’ data work to develop predictive models and complex algorithms.</td>
-        <td style=min-width:50px>R, Python, Spark, Hadoop.</td>
+        <td width="150px">Data Scientist</td>
+        <td min-width="50px">Builds upon the analysts’ data work to develop predictive models and complex algorithms.</td>
+        <td min-width="50px">R, Python, Spark, Hadoop.</td>
     </tr>
     <tr>
         <td>
             <img src="assets/images/Data_Engineer_1.jpg" width="45px"/>
             <img src="assets/images/Data_Engineer_2.jpg" width="45px"/>
         </td>
-        <td style=min-width:150px>Data Engineer</td>
-        <td style=min-width:50px>Develops the infrastructure to house the data and maintains the structural components.</td>
-        <td style=min-width:50px>AWS, MongoDB, MySQL, Hadoop, C++.</td>
+        <td width="150px">Data Engineer</td>
+        <td min-width="50px">Develops the infrastructure to house the data and maintains the structural components.</td>
+        <td min-width="50px">AWS, MongoDB, MySQL, Hadoop, C++.</td>
     </tr>
     <tr>
         <td><img src="assets/images/Data_Scientist_1.jpg" width="45px"/></td>
-        <td style=min-width:50px>ML Ops Engineer</td>
-        <td style=min-width:50px>Responsible for linking the ML application with a unified, production-grade platform and processes.</td>
-        <td style=min-width:50px>Distributed & Big data systems, MapReduce, Stream Processing, In-Memory Computing, Lambda & Kappa Architecture</td>
+        <td min-width="50px">ML Ops Engineer</td>
+        <td min-width="50px">Responsible for linking the ML application with a unified, production-grade platform and processes.</td>
+        <td min-width="50px">Distributed & Big data systems, MapReduce, Stream Processing, In-Memory Computing, Lambda & Kappa Architecture</td>
     </tr>
 </table>
 
