@@ -38,7 +38,7 @@ More details in the table below:
     </thead>
     <tbody>
         <tr>
-            <td><img src="assets/images/AML.png" style="min-width:45px;"/></td>
+            <td><img src="assets/images/AML.png" width="45px"/></td>
             <td style=min-width:150px>Azure Machine Learning service</td>
             <td style=min-width:50px>A managed cloud service for Machine Learning.</td>
             <td style=min-width:50px>Train, deploy, and manage models in Azure using Python, Azure CLI, and Azure portal.</td>
