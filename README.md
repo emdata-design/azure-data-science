@@ -11,34 +11,6 @@
 - [Ideal Data Science Team](#Ideal-Data-Science-Team)
 - [Resources](#Resources)
 
-<!-- Add axios -->
-<script>
-
-
-await fetch("https://azure.microsoft.com/en-us/global-infrastructure/services/get-async/", {
-    "credentials": "include",
-    "headers": {
-        "Accept": "*/*",
-        "Accept-Language": "en-US,en;q=0.5",
-        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-        "X-Requested-With": "XMLHttpRequest"
-    },
-    "referrer": "https://azure.microsoft.com/en-us/global-infrastructure/services/?products=databricks&regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia",
-    "body": "RegionSlugs%5B%5D=usgov-non-regional&RegionSlugs%5B%5D=us-dod-central&RegionSlugs%5B%5D=us-dod-east&RegionSlugs%5B%5D=usgov-arizona&RegionSlugs%5B%5D=usgov-iowa&RegionSlugs%5B%5D=usgov-texas&RegionSlugs%5B%5D=usgov-virginia&ProductSlugs%5B%5D=databricks",
-    "method": "POST",
-    "mode": "cors"
-}).then(function (response) {
-	// The API call was successful
-	return response.text();
-}).then(function (html) {
-	// This is the HTML from our response as a text string
-	console.log(html);
-}).catch(function (err) {
-	// There was an error
-	console.warn('Something went wrong.', err);
-});
-</script>
-
 ## Introduction
 Microsoft Azure offers a multitude of cloud-based products that simplify creating solutions that solve your analytical problems with machine learning and AI. Together these products help your team with all aspects of the data science process.
 
