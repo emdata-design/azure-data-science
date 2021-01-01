@@ -1,6 +1,6 @@
-# Choosing the Right Data Science Services in Azure: <small><br>Scale, Automate, and Deploy with Ease</small>
+<p align="center"><a href="https://emdata.ai" target="_blank" rel="noopener noreferrer"><img src="https://avatars1.githubusercontent.com/u/58564118?s=200&v=4" alt="emdata logo" width="100" vspace="1" hspace="1" /></a></p>
 
-<a href="https://emdata.ai"><img src="https://avatars1.githubusercontent.com/u/58564118?s=200&v=4" alt="emdata logo" align="right" width="36" vspace="1" hspace="10" /></a>
+# Choosing the Right Data Science Services in Azure: <small><br>Scale, Automate, and Deploy with Ease</small>
 
 ## Table of Contents
 - [Introduction](#Introduction)
